@@ -1,0 +1,2 @@
+# SMC
+School Management System
